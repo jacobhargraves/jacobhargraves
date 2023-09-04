@@ -3,15 +3,12 @@
   opacity: 1;">
 </div>
 
-<div id="badges">
+<div id="badges" align="center>
   <a href="[jacob-hargraves linked in](https://www.linkedin.com/in/jacob-hargraves/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
+  <a href="[portfolio-url](https://jacobhargraves.github.io/portfolio/)">
+    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 
