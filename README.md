@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479osw40yio045qc2y5wz33uq0l4wmyktdgi995yox&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Coding Work From Home GIF by Domme Space" style="width: 500px; height: 375px; opacity: 1; left: 0px; top: 0px;">
 
 <!--
 **jacobhargraves/jacobhargraves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
