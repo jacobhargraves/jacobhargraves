@@ -1,5 +1,7 @@
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479osw40yio045qc2y5wz33uq0l4wmyktdgi995yox&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Coding Work From Home GIF by Domme Space" style="width: 500px; height: 375px; opacity: 1; left: 0px; top: 0px;">
-
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479osw40yio045qc2y5wz33uq0l4wmyktdgi995yox&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Coding Work From Home GIF by Domme Space" style="width: 200px; 
+  opacity: 1;">
+</div>
 <!--
 **jacobhargraves/jacobhargraves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
