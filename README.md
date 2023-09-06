@@ -35,7 +35,7 @@
 
 ## GitHub Stats
 ![Jacob Hargraves's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobhargraves&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobhargraves&layout=pie&theme=transparent)](https://github.com/jacobhargraves/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobhargraves&layout=compact&theme=transparent)](https://github.com/jacobhargraves/github-readme-stats)
 
 
 <!--
