@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey I'm Jake!&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+# Hi, I'm Jake!
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479osw40yio045qc2y5wz33uq0l4wmyktdgi995yox&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Coding Work From Home GIF by Domme Space" style="width: 200px; 
   opacity: 1;">
@@ -20,7 +18,7 @@
 - :computer: Full-Stack Web Developer with a passion for the health and fitness industry. I have a Bachelor's Degree in Exercise Physiology :muscle:
 - :boom: I am currently working on an application that integrates AI into an online health portal allowing physical therapists to give more timely assessments and recover plans. Check it out here: https://github.com/jacobhargraves/pt-new-patient-diagnosis-portal
 - :seedling: I'm currently learning React for JavaScript
-- :mailbox: Reach out to me on LinkedIn! https://www.linkedin.com/in/jacob-hargraves/
+- :mailbox: Reach out to me on LinkedIn! <a href="https://www.linkedin.com/in/jacob-hargraves">Let's connect!</a>
 - :mount_fuji: In my freetime you can find me rock climbing, hiking, exercising, or hanging out with my family!
 
 ## Languages and Technologies
@@ -37,7 +35,7 @@
 
 ## GitHub Stats
 ![Jacob Hargraves's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobhargraves&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobhargraves)](https://github.com/jacobhargraves/github-readme-stats&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobhargraves&layout=pie&theme=transparent)](https://github.com/jacobhargraves/github-readme-stats)
 
 
 <!--
