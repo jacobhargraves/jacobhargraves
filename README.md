@@ -2,12 +2,12 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479osw40yio045qc2y5wz33uq0l4wmyktdgi995yox&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Coding Work From Home GIF by Domme Space" style="width: 200px; 
   opacity: 1;">
-  <div id="badges" align="center>
+  <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/jacob-hargraves/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://jacobhargraves.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge" alt="Portfolio Badge"/>
     </a>
   </div>
 </div>
