@@ -32,7 +32,7 @@
 </div>
 
 ## GitHub Stats
-![Jacob Hargraves's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobhargraves&show_icons=true&theme=radical)
+![Jacob Hargraves's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobhargraves&show_icons=true&theme=radical&bg_color=00000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobhargraves)](https://github.com/jacobhargraves/github-readme-stats)
 
 
