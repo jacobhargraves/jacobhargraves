@@ -13,13 +13,13 @@
 
 ---
 
-### :man: About Me
+## About Me
 - :computer: Full-Stack Web Developer with a passion for the health and fitness industry. I have a Bachelor's Degree in Exercise Physiology :muscle:
 - :boom: I am currently working on an application that integrates AI into an online health portal allowing physical therapists to give more timely assessments and recover plans. Check it out here: https://github.com/jacobhargraves/pt-new-patient-diagnosis-portal
 - :seedling: I'm currently learning React for JavaScript
 - :mailbox: Reach out to me on LinkedIn! https://www.linkedin.com/in/jacob-hargraves/
 
-### :hammer: Languages and Technologies
+## Languages and Technologies
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -31,8 +31,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-:fire: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jacobhargraves)](https://git.io/streak-stats)
 
 
 <!--
