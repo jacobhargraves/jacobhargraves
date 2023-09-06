@@ -14,12 +14,12 @@
 ---
 
 ### About Me
-- Full-Stack Web Developer with a passion for the health and fitness industry. I have a Bachelor's Degree in Exercise Physiology 
+- Full-Stack Web Developer with a passion for the health and fitness industry. I have a Bachelor's Degree in Exercise Physiology :muscle:
 - I am currently working on an application that integrates AI into an online health portal allowing physical therapists to give more timely assessments and recover plans. Check it out here: https://github.com/jacobhargraves/pt-new-patient-diagnosis-portal
 - I'm currently learning React for JavaScript
 - Reach out to me on LinkedIn! https://www.linkedin.com/in/jacob-hargraves/
 
-### :hammer_and_wrench: Languages and Technologies
+### :hammer: Languages and Technologies
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
