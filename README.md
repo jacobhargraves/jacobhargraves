@@ -2,13 +2,31 @@
   <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479osw40yio045qc2y5wz33uq0l4wmyktdgi995yox&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Coding Work From Home GIF by Domme Space" style="width: 200px; 
   opacity: 1;">
   <div id="badges" align="center>
-    <a href="[jacob-hargraves linked in](https://www.linkedin.com/in/jacob-hargraves/)">
+    <a href="https://www.linkedin.com/in/jacob-hargraves/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="[portfolio-url](https://jacobhargraves.github.io/portfolio/)">
+    <a href="https://jacobhargraves.github.io/portfolio/">
       <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
+</div>
+
+### About Me
+- Full-Stack Web Developer with a passion for the health and fitness industry. I have a Bachelor's Degree in Exercise Physiology 
+- I am currently working on an application that integrates AI into an online health portal allowing physical therapists to give more timely assessments and recover plans. Check it out here: https://github.com/jacobhargraves/pt-new-patient-diagnosis-portal
+- I'm currently learning React for JavaScript
+- Reach out to me on LinkedIn! https://www.linkedin.com/in/jacob-hargraves/
+
+### Languages and Technologies
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 
